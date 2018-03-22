@@ -1,0 +1,24 @@
+body {
+  width: 60%;
+  margin: 0 auto;
+  border: 20px solid #a6a6a6;
+  font-family: "Open Sans", sans-serif; }
+
+article {
+  margin: 15px;
+  margin-bottom: 40px; }
+  article header p {
+    text-transform: uppercase;
+    color: #3498db;
+    letter-spacing: 5; }
+  article header h2 {
+    color: 2c3e50;
+    text-transform: capitalize;
+    font-size: 40px; }
+  article section p:nth-child(1) {
+    border-left: 10px solid grey;
+    padding-left: 10px; }
+  article section p {
+    line-height: 1.5; }
+
+/*# sourceMappingURL=styles.css.map */
