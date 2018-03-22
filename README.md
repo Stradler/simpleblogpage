@@ -1,1 +1,1 @@
-# Simple Blog Page, made to remember HTML and CSS.
+# Simple Blog Page, made to remember some HTML and CSS, Sass. 
